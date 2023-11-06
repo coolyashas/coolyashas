@@ -4,6 +4,6 @@
 
 Yashas is a tech enthusiast who enjoys open-source, deep learning & backend engineering. When he is not speaking of himself in third person, he is constantly looking for opportunities to work on new and innovative ideas. To collaborate, please feel free to contact him :)
 
-## But why all this?
+## But why tho?
 
 I've always found CS super cool, explored a few domains, took some courses and worked on a few projects currently being used by real people. If you have some ideas that can have a real impact in the world we live in, big or small, I would love to hear them!
