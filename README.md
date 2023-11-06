@@ -15,5 +15,8 @@ I've always found CS super cool, explored a few domains, took some courses and w
 ## Automation Scripts
 - [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
 
+## Internships
+- Coming Soon.
+
 ## Research Papers
 - Coming Soon.
