@@ -8,6 +8,8 @@ Yashas is a tech enthusiast who enjoys open-source, deep learning & backend engi
 
 I've always found CS super cool, explored a few domains, took some courses and worked on a few projects currently being used by real people. If you have some ideas that can have a real impact in the world we live in, big or small, I would love to hear them!
 
+[My Resume](https://drive.google.com/file/d/1Ea4FqzPMfEMz6ufrNitUDaxAdCX3uugD/view?usp=drive_link)
+
 ## Projects
 - [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
 - [Stock Trading Website](https://github.com/coolyashas/Finance-Website)
