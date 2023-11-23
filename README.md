@@ -23,5 +23,5 @@ I've always found CS super cool, explored a few domains, took some courses and w
 ## Internship Projects
 - Coming Soon.
 
-## Research Papers
+## Published Papers
 - Coming Soon.
