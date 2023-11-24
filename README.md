@@ -29,9 +29,9 @@ I've always found CS super cool, explored a few domains, took some courses and w
 ## Published Papers
 - Coming Soon.
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolyashas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolyashas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies:
+## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=coolyashas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
