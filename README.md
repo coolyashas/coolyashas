@@ -11,11 +11,11 @@ I've always found CS super cool, explored a few domains, took some courses and w
 [My Resume](https://drive.google.com/file/d/1Ea4FqzPMfEMz6ufrNitUDaxAdCX3uugD/view?usp=drive_link)
 
 ## Projects
-- [Stock Trading Website - Flask](https://github.com/coolyashas/Finance-Website)
+- [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
 - [Tutoring Website - Django](https://github.com/coolyashas/TutorHub)
 - [Home Automation System](https://github.com/coolyashas/Home-Automation-System)
+- [Stock Trading Website - Flask](https://github.com/coolyashas/Finance-Website)
 - [Campus Placements Data Analysis](https://github.com/coolyashas/Campus-Placements-Data-Analysis)
-- [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
 
 ## Automation Scripts
 - [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
