@@ -20,6 +20,9 @@ I've always found CS super cool, explored a few domains, took some courses and w
 ## Automation Scripts
 - [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
 
+## Merged PRs
+- [Django (PostgreSQL) - Documentation](https://github.com/django/django/pull/17586)
+
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolyashas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolyashas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
