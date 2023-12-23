@@ -17,6 +17,9 @@ I've always found CS super cool, explored a few domains, took some courses and w
 - [Stock Trading Website - Flask](https://github.com/coolyashas/Finance-Website)
 - [Campus Placements Data Analysis](https://github.com/coolyashas/Campus-Placements-Data-Analysis)
 
+## AI Projects & Papers
+- [Traffic Signs Detection](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
+
 ## Automation Scripts
 - [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
 
