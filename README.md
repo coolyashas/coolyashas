@@ -23,8 +23,8 @@ I've always found CS super cool, explored a few domains, took some courses and w
 ## Automation Scripts
 - [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
 
-## Merged PRs
-- [Django (PostgreSQL) - Documentation](https://github.com/django/django/pull/17586)
+## Open Source
+You can find a list of my PRs to open source projects [here](https://github.com/pulls?q=is%3Apr+author%3Acoolyashas+is%3Apublic). I'm currently contributing to AI projects related to [Transformers](https://huggingface.co/docs/transformers/index) and [Diffusion Models](https://huggingface.co/docs/diffusers/v0.24.0/index).
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolyashas&theme=dark&hide_border=false)<br/>
