@@ -21,9 +21,6 @@ I've always found CS super cool, explored a few domains, took some courses and w
 ## AI Projects & Papers
 - [Traffic Signs Detection - YOLO v8](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
 
-## Open Source
-You can find a list of my PRs to open source projects [here](https://github.com/pulls?q=is%3Apr+author%3Acoolyashas+is%3Apublic). I'm currently contributing to AI projects related to [Transformers](https://huggingface.co/docs/transformers/index) and [Diffusion Models](https://huggingface.co/docs/diffusers/v0.24.0/index).
-
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolyashas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolyashas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
