@@ -18,7 +18,7 @@ I've always found CS super cool, explored a few domains, took some courses and w
 - [Campus Placements Data Analysis](https://github.com/coolyashas/Campus-Placements-Data-Analysis)
 - [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
 
-## AI Projects & Papers
+## AI Projects
 - [Traffic Signs Detection - YOLO v8](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
 
 ## GitHub Stats:
