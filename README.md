@@ -10,16 +10,17 @@ I've always found CS super cool, explored a few domains, took some courses and w
 
 [My Resume](https://drive.google.com/file/d/1Ea4FqzPMfEMz6ufrNitUDaxAdCX3uugD/view?usp=drive_link)
 
-## Projects
-- [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
-- [Tutoring Website - Django](https://github.com/coolyashas/TutorHub)
-- [Home Automation System](https://github.com/coolyashas/Home-Automation-System)
-- [Stock Trading Website - Flask](https://github.com/coolyashas/Finance-Website)
-- [Campus Placements Data Analysis](https://github.com/coolyashas/Campus-Placements-Data-Analysis)
-- [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
-
 ## AI Projects
-- [Traffic Signs Detection - YOLO v8](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
+- [Traffic Signs Detection](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
+- [Vehicle Mirrors](https://huggingface.co/AI4Ev3r/Mirrors)
+
+## Other Projects
+- [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
+- [Home Automation System](https://github.com/coolyashas/Home-Automation-System)
+- [Tutoring Website](https://github.com/coolyashas/TutorHub)
+- [Campus Placements Analysis](https://github.com/coolyashas/Campus-Placements-Data-Analysis)
+- [Stock Trading Website](https://github.com/coolyashas/Finance-Website)
+- [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolyashas&theme=dark&hide_border=false)<br/>
