@@ -10,7 +10,7 @@ I've always found CS super cool, explored a few domains, took some courses and w
 
 ## AI Projects
 - [Traffic Signs Detection](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
-- [Vehicle Mirrors](https://huggingface.co/AI4Ev3r/Mirrors)
+- [Vehicle Mirror Detecion](https://huggingface.co/AI4Ev3r/Mirrors) (Private till paper gets published)
 
 ## Other Projects
 - [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
