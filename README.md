@@ -8,17 +8,15 @@ Yashas is a tech enthusiast who enjoys open-source, deep learning & Computer Vis
 
 I've always found CS super cool, explored a few domains, took some courses and worked on a few projects currently being used by real people. If you have some ideas that can have a real impact in the world we live in, big or small, I would love to hear them!
 
-## AI Projects
-- [Traffic Signs Detection](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
-- [Vehicle Mirror Detecion](https://x.com/yashas_donthi/status/1749273179670172116)
-
-## Other Projects
+## Previous Projects
 - [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
 - [Home Automation System](https://github.com/coolyashas/Home-Automation-System)
 - [Tutoring Website](https://github.com/coolyashas/TutorHub)
 - [Campus Placements Analysis](https://github.com/coolyashas/Campus-Placements-Data-Analysis)
 - [Stock Trading Website](https://github.com/coolyashas/Finance-Website)
 - [C & C++ Starting Template](https://github.com/coolyashas/VSCode-Template-Automation)
+- [Traffic Signs Detection](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection)
+- [Vehicle Mirror Detecion](https://x.com/yashas_donthi/status/1749273179670172116)
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolyashas&theme=dark&hide_border=false)<br/>
