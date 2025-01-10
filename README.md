@@ -8,6 +8,8 @@ Yashas is a tech enthusiast who enjoys open-source, deep learning & Computer Vis
 
 I've always found CS super cool, explored a few domains, took some courses and worked on a few projects currently being used by real people. If you have some ideas that can have a real impact in the world we live in, big or small, I would love to hear them!
 
+Currently working on advancing cutting Diffusion models for Image Editing applications.
+
 ## Previous Projects
 - [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
 - [Home Automation System](https://github.com/coolyashas/Home-Automation-System)
