@@ -2,7 +2,7 @@
 
 ## Who is Yashas?
 
-Yashas is a tech enthusiast who enjoys open-source, deep learning & Computer Vision. When he is not speaking of himself in third person, he is constantly looking for opportunities to work on new and innovative ideas. To collaborate, please feel free to contact him :)
+Yashas is a tech enthusiast who enjoys open-source, deep learning & Computer Vision. When he is not speaking of himself in third person, he is constantly looking for opportunities to work on new and innovative ideas. To collaborate, feel free to contact him :)
 
 Currently involved in Computer Vision Research, where we work on advancing cutting edge Diffusion models for Image Editing applications.
 
