@@ -1,5 +1,7 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=078af5&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Yashas%2C+It's+nice+to+meet+you!" align="middle" alt="Hey, I'm Yashas, It's nice to meet you! animated typed out">
 
+## Who is Yashas?
+
 Yashas is a tech enthusiast who enjoys open-source, deep learning & Computer Vision. When he is not speaking of himself in third person, he is constantly looking for opportunities to work on new and innovative ideas. To collaborate, please feel free to contact him :)
 
 Currently involved in Computer Vision Research, where we work on advancing cutting edge Diffusion models for Image Editing applications.
