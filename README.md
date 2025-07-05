@@ -4,7 +4,7 @@
 
 Yashas is a tech enthusiast who enjoys open-source, deep learning & Computer Vision. When he is not speaking of himself in third person, he is constantly looking for opportunities to work on new and innovative ideas. To collaborate, feel free to contact him :)
 
-Currently involved in Computer Vision Research, where we work on advancing cutting edge Diffusion models for Image Editing applications.
+Currently involved in Computer Vision, advancing cutting edge Diffusion models for Image Editing applications.
 
 ## Previous Projects
 - [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot)
