@@ -7,7 +7,7 @@ I collaborate with **Carnegie Mellon University** on **AI-driven 3D modular asse
 
 I also lead **developer communities** as **GDG Lead at RVCE**, where I’ve organized **Gen AI study jams, Build With AI events, and an overnight hackathon with 150+ participants**.  
 
-Previously, at **Pro Test**, I fine-tuned **Vision-Language Models** to automate test-case generation with **sub-second inference latency**, achieving **85% coverage alignment** with human-authored test cases.
+Previously, at **Pro Test**, I fine-tuned **Vision-Language Models** to automate test-case generation with **sub-second inference latency**, achieving **high coverage alignment** with human-authored test cases.
 
 ---
 
