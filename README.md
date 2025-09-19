@@ -35,11 +35,4 @@ Previously, at **Pro Test**, I fine-tuned **Vision-Language Models** to automate
 
 ---
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- Email: **2yashas2@gmail.com**
-
----
-
 *“Building AI systems that are practical, responsible, and deployable in the real world.”*
