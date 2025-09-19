@@ -14,8 +14,7 @@ Previously, at **Pro Test**, I fine-tuned **Vision-Language Models** to automate
 ## Projects
 
 - [Discord Chess Bot](https://github.com/coolyashas/Discord-Chess-Bot) – A Discord bot enabling real-time chess gameplay with multiple users, featuring move validation and game state tracking.
-- [Home Automation System](https://github.com/coolyashas/Home-Automation-System) – A Python-based IoT system for controlling home devices remotely with automated scheduling and sensor integration.
-- [Pro Test VLM Test-Case Generation](https://github.com/coolyashas/ProTest-VLM-TestcaseGen) – Automating test-case generation from product specs using LLaMA-3.2-Vision.    
+- [Home Automation System](https://github.com/coolyashas/Home-Automation-System) – A Python-based IoT system for controlling home devices remotely with automated scheduling and sensor integration.  
 - [Traffic Signs Detection](https://huggingface.co/AI4Ev3r/Traffic-Signs-Detection) – Computer vision project for real-time traffic sign recognition.  
 - [Vehicle Mirror Detection](https://x.com/yashas_donthi/status/1749273179670172116) – YOLOv8-based system for detecting missing rear-view mirrors.  
 
@@ -25,7 +24,7 @@ Previously, at **Pro Test**, I fine-tuned **Vision-Language Models** to automate
 
 **Machine Learning & AI:** Computer Vision, Generative AI, LLMs, VLMs, Neural Network Compression, Diffusion Models  
 **Programming & Frameworks:** Python, PyTorch, TensorFlow, Hugging Face, FAISS  
-**Applied ML Practices:** Model Fine-Tuning, Prompt Engineering, Data Pipelines, Real-Time Inference  
+**Applied ML Practices:** Model Fine-Tuning, Data Pipelines, Real-Time Inference  
 
 ---
 
