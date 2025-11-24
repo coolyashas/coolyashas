@@ -2,12 +2,12 @@
 
 ## About Me
 
-Passionate about **AI, Vision, and Generative Models**.  
-I collaborate with **CMU** on **3D construction**, combining **LLMs, physics solvers, and differentiable rendering** for applications in **AR/VR and game dev**.  
+Passionate about **ML, Vision, and Generative Models**.  
+I collaborate with **CMU** on 3D construction, combining LLMs, physics solvers, and differentiable rendering for applications in AR, VR and game dev.  
 
-I also lead **developer communities** as **Google Developers Group Head at RVCE**, where I’ve organized **Gen AI study jams, Build With AI events, and an overnight hackathon with 150+ participants**.  
+I also led developer communities as **Google Developers Group** Head at RVCE, where I organized Gen AI study jams, Build With AI events, and an overnight hackathon with 150+ participants.  
 
-Previously, I fine-tuned **VLMs** to automate test-case generation with **sub-second inference latency**, achieving **high coverage alignment** with human-authored test cases.
+Previously, I fine-tuned **VLMs** to automate test-case generation with **sub-second** inference latency, achieving high coverage alignment with human-authored test cases.
 
 ---
 
